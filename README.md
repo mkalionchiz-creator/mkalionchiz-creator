@@ -14,7 +14,7 @@
     <strong>💼 Current:</strong> Brand Planning & Execution Analyst at Sigma Alimentos
   </li>
   <li>
-    <strong>🎓 Background:</strong> B.S. in Industrial Engineering, minor in Systems Engineering, Tecnológico de Monterrey (GPA 92.8/100). Exchange at Victoria University (Melbourne) and Data Science program at IEB (Madrid).
+    <strong>🎓 Background:</strong> B.S. in Industrial Engineering, minor in Systems Engineering, Tecnológico de Monterrey
   </li>
   <li>
     <strong>🧠 Interests:</strong> Using data and AI to solve real operations problems: demand forecasting, capacity planning, supply chain design and computer vision for industrial settings. Moving toward tech, AI and product management.
