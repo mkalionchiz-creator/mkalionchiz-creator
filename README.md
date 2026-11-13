@@ -45,9 +45,7 @@
   <li><strong>🤖 ML / AI:</strong> YOLOv8 (computer vision), Prophet (forecasting), Google Colab, AI agents with Claude</li>
   <li><strong>📊 Optimization & Simulation:</strong> FlexSim, Monte Carlo, Coupa Supply Chain Design</li>
   <li><strong>📈 Reporting & Analytics:</strong> Power BI, Tableau, Excel (macros, automated dashboards)</li>
-  <li><strong>🛒 Market Data:</strong> Nielsen, dunnhumby, Scintilla, SAP</li>
-  <li><strong>🧩 Process & Workflow:</strong> Lean Six Sigma (Yellow Belt), Scrum, Kanban</li>
-</ul>
+
 
 <p>
   <img align="center"
@@ -67,12 +65,6 @@
   <br/>
 
   <li>
-    <strong>🏪 Operations Platform for a 12-Location Franchise (Web App + Process Design)</strong><br/>
-    Designed and built a web platform for my family's franchise business to replace email chains and inconsistent inventory across stores. Standardized inventory, record-keeping and complaint tracking for every location.
-    <br/><i>Methods: workflow design • process standardization • built with Claude</i>
-    <br/><i>Outputs: admin time down ~30% • inventory discrepancy losses eliminated</i>
-  </li>
-  <br/>
 
   <li>
     <strong>🔋 Battery Demand Forecasting for Clarios (Time Series + Simulation)</strong><br/>
