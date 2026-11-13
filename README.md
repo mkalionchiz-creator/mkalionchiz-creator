@@ -11,7 +11,7 @@
 
 <ul>
   <li>
-    <strong>💼 Current:</strong> Brand Planning & Execution Analyst at Sigma Alimentos (cheese category), owning volume, sales and capacity planning for the company's top-selling cheese brand. Built an AI agent that cut business plan analysis from months to two weeks, and a single dashboard that merges 7 data sources (Nielsen, dunnhumby, Scintilla, SAP and more).
+    <strong>💼 Current:</strong> Brand Planning & Execution Analyst at Sigma Alimentos
   </li>
   <li>
     <strong>🎓 Background:</strong> B.S. in Industrial Engineering, minor in Systems Engineering, Tecnológico de Monterrey (GPA 92.8/100). Exchange at Victoria University (Melbourne) and Data Science program at IEB (Madrid).
