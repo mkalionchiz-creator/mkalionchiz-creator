@@ -46,7 +46,6 @@
   <li><strong>📊 Optimization & Simulation:</strong> FlexSim, Monte Carlo, Coupa Supply Chain Design</li>
   <li><strong>📈 Reporting & Analytics:</strong> Power BI, Tableau, Excel (macros, automated dashboards)</li>
 
-
 <p>
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mkalionchiz-creator&show_icons=true&locale=en&layout=compact"
@@ -63,8 +62,6 @@
     <br/><i>Outputs: mAP@50 ~90% • business case for deployment</i>
   </li>
   <br/>
-
-  <li>
 
   <li>
     <strong>🔋 Battery Demand Forecasting for Clarios (Time Series + Simulation)</strong><br/>
